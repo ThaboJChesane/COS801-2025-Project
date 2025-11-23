@@ -1,0 +1,28 @@
+CNN_Logits – Macro P/R/F1: 0.9112243533907182 0.939331890587995 0.9219372054169157
+CNN_Logits – Weighted P/R/F1: 0.9329803975909263 0.922360248447205 0.9245298335435503
+
+CNN_Logits – Classification report:
+              precision    recall  f1-score   support
+
+     COVID19     0.9652    0.9569    0.9610       116
+      NORMAL     0.7850    0.9558    0.8620       317
+   PNEUMONIA     0.9835    0.9053    0.9428       855
+
+    accuracy                         0.9224      1288
+   macro avg     0.9112    0.9393    0.9219      1288
+weighted avg     0.9330    0.9224    0.9245      1288
+
+
+CNN_Softmax – Macro P/R/F1: 0.7514655836646167 0.853587090270608 0.7849325712339411
+CNN_Softmax – Weighted P/R/F1: 0.8473326511890171 0.8020186335403726 0.8097559251775196
+
+CNN_Softmax – Classification report:
+              precision    recall  f1-score   support
+
+     COVID19     0.6879    0.9310    0.7912       116
+      NORMAL     0.6093    0.8707    0.7169       317
+   PNEUMONIA     0.9572    0.7591    0.8467       855
+
+    accuracy                         0.8020      1288
+   macro avg     0.7515    0.8536    0.7849      1288
+weighted avg     0.8473    0.8020    0.8098      1288
