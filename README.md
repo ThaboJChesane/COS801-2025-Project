@@ -2,6 +2,9 @@
 # Medical Image Classification Using Chest X-rays  
 ### CNN, CNN-Logits, and LiteDenseNet-BC
 
+## [Chest X-Ray COVID-19 & Pneumonia Dataset](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia/data)
+
+
 This repository contains the full implementation, training pipeline, evaluation scripts, and analysis for a medical image classification project focused on detecting **COVID-19**, **Normal**, and **Pneumonia** cases from chest X-ray images.
 
 The project implements three deep learning models of increasing complexity:
