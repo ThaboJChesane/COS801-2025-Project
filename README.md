@@ -2,6 +2,7 @@
 # Medical Image Classification Using Chest X-rays  
 ### CNN, CNN-Logits, and LiteDenseNet-BC
 
+# Download the necessary dataset:
 ## [Chest X-Ray COVID-19 & Pneumonia Dataset](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia/data)
 
 
